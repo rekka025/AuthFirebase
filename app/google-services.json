@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "721248713192",
+    "firebase_url": "https://authfirebase-eaa32.firebaseio.com",
+    "project_id": "authfirebase-eaa32",
+    "storage_bucket": "authfirebase-eaa32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721248713192:android:b6a2dec8626cffc5",
+        "android_client_info": {
+          "package_name": "com.reka.authfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721248713192-gigvrhuqhngr4updb6p02mkldebqmp9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reka.authfirebase",
+            "certificate_hash": "a63b989784a5827d890ee68e7792a9590ed4fd24"
+          }
+        },
+        {
+          "client_id": "721248713192-caqakqq48hp5dqklh8s71ct8oeb1b7k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-8tJrUgSD9LCo8xv5VYjHHw27X7igvvM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721248713192-caqakqq48hp5dqklh8s71ct8oeb1b7k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
